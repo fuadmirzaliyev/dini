@@ -1,0 +1,50 @@
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: •●★--- Dini Kanallar ----★●•" tvg-logo="http://135.125.239.110/icon/965805.png" group-title="TR ⚡️ Dini",TR: •●★--- Dini Kanallar ----★●•
+http://t1t4n2133.xyz:8080/2868tt/bMWfkkeMSYdC/279027
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: Sözler Köşkü" tvg-logo="https://i.imgur.com/FBGK2IK.png" group-title="TR ⚡️ Dini",TR: Sözler Köşkü
+http://t1t4n2133.xyz:8080/2868tt/bMWfkkeMSYdC/479299
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: Kabe TV" tvg-logo="http://135.125.239.110/icon/381706.png" group-title="TR ⚡️ Dini",TR: Kabe TV
+http://t1t4n2133.xyz:8080/2868tt/bMWfkkeMSYdC/173954
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="diyanettv.tr" tvg-name="TR: Diyanet TV HD" tvg-logo="http://135.125.239.110/icon/616229.png" group-title="TR ⚡️ Dini",TR: Diyanet TV HD
+http://t1t4n2133.xyz:8080/2868tt/bMWfkkeMSYdC/173955
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: Dost TV HD" tvg-logo="http://135.125.239.110/icon/539835.png" group-title="TR ⚡️ Dini",TR: Dost TV HD
+http://t1t4n2133.xyz:8080/2868tt/bMWfkkeMSYdC/173956
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: Lalegül TV HD" tvg-logo="http://135.125.239.110/icon/137558.png" group-title="TR ⚡️ Dini",TR: Lalegül TV HD
+http://t1t4n2133.xyz:8080/2868tt/bMWfkkeMSYdC/173957
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SEMERKAND TV" tvg-name="TR: Semerkand TV" tvg-logo="http://135.125.239.110/icon/624413.png" group-title="TR ⚡️ Dini",TR: Semerkand TV
+http://t1t4n2133.xyz:8080/2868tt/bMWfkkeMSYdC/173958
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: Rehber TV HD" tvg-logo="http://135.125.239.110/icon/139455.png" group-title="TR ⚡️ Dini",TR: Rehber TV HD
+http://t1t4n2133.xyz:8080/2868tt/bMWfkkeMSYdC/173959
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="meltemtv.tr" tvg-name="TR: Meltem TV" tvg-logo="http://135.125.239.110/icon/321456.png" group-title="TR ⚡️ Dini",TR: Meltem TV
+http://t1t4n2133.xyz:8080/2868tt/bMWfkkeMSYdC/173960
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: Kudüs TV HD" tvg-logo="http://135.125.239.110/icon/205704.png" group-title="TR ⚡️ Dini",TR: Kudüs TV HD
+http://t1t4n2133.xyz:8080/2868tt/bMWfkkeMSYdC/173961
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FM TV" tvg-name="TR: Fm TV HD" tvg-logo="http://135.125.239.110/icon/460108.png" group-title="TR ⚡️ Dini",TR: Fm TV HD
+http://t1t4n2133.xyz:8080/2868tt/bMWfkkeMSYdC/173962
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: Gonca TV HD" tvg-logo="http://135.125.239.110/icon/542671.png" group-title="TR ⚡️ Dini",TR: Gonca TV HD
+http://t1t4n2133.xyz:8080/2868tt/bMWfkkeMSYdC/469854
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: İkra TV HD" tvg-logo="http://135.125.239.110/icon/762780.png" group-title="TR ⚡️ Dini",TR: İkra TV HD
+http://t1t4n2133.xyz:8080/2868tt/bMWfkkeMSYdC/469853
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="VAV TV" tvg-name="TR: Vav TV HD" tvg-logo="http://135.125.239.110/icon/927141.png" group-title="TR ⚡️ Dini",TR: Vav TV HD
+http://t1t4n2133.xyz:8080/2868tt/bMWfkkeMSYdC/173964
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: İlahi Radyo HD" tvg-logo="http://135.125.239.110/icon/435760.png" group-title="TR ⚡️ Dini",TR: İlahi Radyo HD
+http://t1t4n2133.xyz:8080/2868tt/bMWfkkeMSYdC/173966
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Tv 5" tvg-name="TR: TV 5 HD" tvg-logo="http://135.125.239.110/icon/772149.png" group-title="TR ⚡️ Dini",TR: TV 5 HD
+http://t1t4n2133.xyz:8080/2868tt/bMWfkkeMSYdC/173967
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Sat 7 Türk" tvg-name="TR: Sat 7 TURK HD" tvg-logo="http://135.125.239.110/icon/140407.png" group-title="TR ⚡️ Dini",TR: Sat 7 TURK HD
+http://t1t4n2133.xyz:8080/2868tt/bMWfkkeMSYdC/173968
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: Hz. Meryem HD" tvg-logo="http://135.125.239.110/icon/151991.png" group-title="TR ⚡️ Dini",TR: Hz. Meryem HD
+http://t1t4n2133.xyz:8080/2868tt/bMWfkkeMSYdC/173971
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: Hasan Ve Huseyin HD" tvg-logo="http://135.125.239.110/icon/954767.png" group-title="TR ⚡️ Dini",TR: Hasan Ve Huseyin HD
+http://t1t4n2133.xyz:8080/2868tt/bMWfkkeMSYdC/173972
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: Hz. Omer HD" tvg-logo="http://135.125.239.110/icon/209008.png" group-title="TR ⚡️ Dini",TR: Hz. Omer HD
+http://t1t4n2133.xyz:8080/2868tt/bMWfkkeMSYdC/173973
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: Yunus Emre HD" tvg-logo="http://135.125.239.110/icon/958301.png" group-title="TR ⚡️ Dini",TR: Yunus Emre HD
+http://t1t4n2133.xyz:8080/2868tt/bMWfkkeMSYdC/173975
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: Blu Kurani Kerim Hatmi Serif" tvg-logo="http://135.125.239.110/icon/688031.png" group-title="TR ⚡️ Dini",TR: Blu Kurani Kerim Hatmi Serif
+http://t1t4n2133.xyz:8080/2868tt/bMWfkkeMSYdC/311035
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: Nihat Hatipoglu HD" tvg-logo="http://135.125.239.110/icon/560534.png" group-title="TR ⚡️ Dini",TR: Nihat Hatipoglu HD
+http://t1t4n2133.xyz:8080/2868tt/bMWfkkeMSYdC/311036
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: KURAN MEALİ TAMAMI HD" tvg-logo="http://135.125.239.110/icon/759323.png" group-title="TR ⚡️ Dini",TR: KURAN MEALİ TAMAMI HD
+http://t1t4n2133.xyz:8080/2868tt/bMWfkkeMSYdC/311039
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR: Blu Nihat Hatiboglu 1" tvg-logo="http://135.125.239.110/icon/651669.png" group-title="TR ⚡️ Dini",TR: Blu Nihat Hatiboglu 1
+http://t1t4n2133.xyz:8080/2868tt/bMWfkkeMSYdC/311054
